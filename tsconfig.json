@@ -4,7 +4,7 @@
     "paths": {
       "react-native-onboarding": ["./src/index"]
     },
-    "allowUnreachableCode": false,
+    "allowUnreachableCode": true,
     "allowUnusedLabels": false,
     "esModuleInterop": true,
     "importsNotUsedAsValues": "error",
